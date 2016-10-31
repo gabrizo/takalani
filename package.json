@@ -1,0 +1,28 @@
+{
+  "name": "takalani",
+  "version": "1.0.0",
+  "description": "Nodejs Email Security",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrizo/takalani.git"
+  },
+  "keywords": [
+    "anti-spam",
+    "anti-virus",
+    "av",
+    "mail",
+    "security",
+    "clamav",
+    "redis"
+  ],
+  "author": "Christian Gabara <gabara.christian@gmail.com> (https://github.com/gabrizo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrizo/takalani/issues"
+  },
+  "homepage": "https://github.com/gabrizo/takalani#readme"
+}
